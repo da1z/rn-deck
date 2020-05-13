@@ -1,0 +1,22 @@
+{
+  "name": "rn-deck-example",
+  "displayName": "RnDeck Example",
+  "expo": {
+    "name": "rn-deck-example",
+    "slug": "rn-deck-example",
+    "description": "Example app for rn-deck",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
